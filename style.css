@@ -15,6 +15,7 @@ h2{
 }
 table{
   border: 2px solid darkorchid;
+  margin: 0 auto; 
 }
 thead{
   background-color: pink;
