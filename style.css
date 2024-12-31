@@ -1,0 +1,40 @@
+body{
+
+}
+h1{
+  text-align: center;
+  font-weight: bold;
+  font-family: monospace;
+  color: #BDB76B;
+}
+h2{
+  text-align: center;
+  font-weight: bold;
+  color: #8A2BE2;
+  font-family: monospace;
+}
+table{
+  border: 2px solid darkorchid;
+}
+thead{
+  background-color: pink;
+  border-color: inherit;
+}
+th{
+  text-align: center;
+}
+tbody{
+  border-color: inherit;
+}
+tr{
+  display: table-row;
+}
+td{
+  font-weight: bold;
+  border-top: 1px solid darkorchid;
+  display: table-cell;
+}
+.code{
+  font-family: monospace;
+  background-color: #FAFAD2;
+}
